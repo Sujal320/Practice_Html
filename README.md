@@ -1,2 +1,2 @@
-# Udemy_Practice_Html_Protfolio
+# Practice_Html
 Just practicing basic HTML 
